@@ -6,6 +6,7 @@
   "agent_runtime": "内置浏览器自动化（browser-use）",
   "task_id": "T02",
   "status": "success",
+  "validity": "invalidated_by_contamination__superseded_by_experiment_002",
   "steps": 7,
   "duration_min": 4,
   "anomalies": [

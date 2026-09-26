@@ -1,0 +1,650 @@
+URL: https://space.bilibili.com/946974/upload/video
+TITLE: 影视飓风投稿视频-影视飓风视频分享-哔哩哔哩视频
+
+- banner:
+  - link "首页":
+    - /url: //www.bilibili.com
+    - generic: 首页
+  - link "番剧":
+    - /url: //www.bilibili.com/anime/
+    - generic: 番剧
+  - link "直播":
+    - /url: //live.bilibili.com
+    - generic: 直播
+  - link "游戏中心":
+    - /url: //game.bilibili.com/platform
+    - generic: 游戏中心
+  - link "会员购":
+    - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+    - generic: 会员购
+  - link "漫画":
+    - /url: //manga.bilibili.com?from=bill_top_mnav
+    - generic: 漫画
+  - link "赛事":
+    - /url: //www.bilibili.com/match/home/
+    - generic: 赛事
+  - link "下载客户端":
+    - /url: //app.bilibili.com/
+    - generic: 下载客户端
+  - textbox "野兽先生MrBeast·3天前更新"
+  - generic: 登录
+  - link "大会员":
+    - /url: //account.bilibili.com/big
+    - generic: 大会员
+  - generic: 消息
+  - generic: 动态
+  - generic: 收藏
+  - generic: 历史
+  - generic: 创作中心
+  - generic: 投稿
+- generic: 影视飓风
+- link "":
+  - /url: //www.bilibili.com/blackboard/help.html/?spm_id_from=333.1387.0.0#/?qid=59e2cffdaa69465486497bb35a5ac295
+  - generic: 
+- generic: 
+- link:
+  - /url: https://account.bilibili.com/big?from_spmid=vipicon&spm_id_from=333.1387.vip.sign.click
+- generic: 飓风
+- generic: "18"
+- generic "无限进步！｜商务合作请联系邮箱：bd@ysjf.com（邮件中麻烦备注公司、咨询内容）｜店铺名：影视飓风"
+- generic: 
+- text: 关注
+- link "发消息":
+  - /url: //message.bilibili.com/#/whisper/mid946974
+- generic: 
+- link " 主页":
+  - /url: /946974
+  - generic: 
+  - generic: 主页
+- link " 动态":
+  - /url: /946974/dynamic
+  - generic: 
+  - generic: 动态
+- link " 投稿 999+":
+  - /url: /946974/upload
+  - generic: 
+  - generic: 投稿
+  - generic: 999+
+- link " 合集和系列 32":
+  - /url: /946974/lists
+  - generic: 
+  - generic: 合集和系列
+  - generic: "32"
+- link " 课堂 4":
+  - /url: /946974/pugv
+  - generic: 
+  - generic: 课堂
+  - generic: "4"
+- textbox "":
+  - /placeholder: 搜索视频、动态
+- text: 
+- generic: 
+- generic: 关注数
+- generic "686"
+- generic: 粉丝数
+- generic "18,404,226": 1840.4万
+- main:
+  - generic: 视频
+  - generic: "932"
+  - generic: 图文
+  - generic: "740"
+  - generic: 音频
+  - generic: "4"
+  - generic: TA的视频
+  - button " 播放全部":
+    - generic: 
+    - generic: 播放全部
+  - generic: 最新发布
+  - generic: 最多播放
+  - generic: 最多收藏
+  - button "更多筛选 ":
+    - text: 更多筛选
+    - generic: 
+  - generic: 
+  - link "比电影更夸张？专业保镖到底在做什么？  687.5万  1万 13:05":
+    - /url: //www.bilibili.com/video/BV1J7hE6aEDQ/?spm_id_from=333.1387.upload.video_card.click
+    - img "比电影更夸张？专业保镖到底在做什么？"
+    - generic: 
+    - generic: 687.5万
+    - generic: 
+    - generic: 1万
+    - generic: 13:05
+  - generic: 
+  - generic "比电影更夸张？专业保镖到底在做什么？":
+    - link "比电影更夸张？专业保镖到底在做什么？":
+      - /url: //www.bilibili.com/video/BV1J7hE6aEDQ/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 9月22日
+  - link "选哪个？iPhone 18 Pro&Duo深度上手  1341.6万  40.2万 27:12":
+    - /url: //www.bilibili.com/video/BV1cSec6tEux/?spm_id_from=333.1387.upload.video_card.click
+    - img "选哪个？iPhone 18 Pro&Duo深度上手"
+    - generic: 
+    - generic: 1341.6万
+    - generic: 
+    - generic: 40.2万
+    - generic: 27:12
+  - generic: 
+  - generic "选哪个？iPhone 18 Pro&Duo深度上手":
+    - link "选哪个？iPhone 18 Pro&Duo深度上手":
+      - /url: //www.bilibili.com/video/BV1cSec6tEux/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 9月16日
+  - link "和五月天阿信见了他  188万  5259 11:14":
+    - /url: //www.bilibili.com/video/BV17PYC6KEXu/?spm_id_from=333.1387.upload.video_card.click
+    - img "和五月天阿信见了他"
+    - generic: 
+    - generic: 188万
+    - generic: 
+    - generic: "5259"
+    - generic: 11:14
+  - generic: 
+  - generic "和五月天阿信见了他":
+    - link "和五月天阿信见了他":
+      - /url: //www.bilibili.com/video/BV17PYC6KEXu/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 9月14日
+  - link "去了一趟山西。  492.3万  2.5万 22:13":
+    - /url: //www.bilibili.com/video/BV1xVY26dEbz/?spm_id_from=333.1387.upload.video_card.click
+    - img "去了一趟山西。"
+    - generic: 
+    - generic: 492.3万
+    - generic: 
+    - generic: 2.5万
+    - generic: 22:13
+  - generic: 
+  - generic "去了一趟山西。":
+    - link "去了一趟山西。":
+      - /url: //www.bilibili.com/video/BV1xVY26dEbz/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 9月12日
+  - link "对话汉斯·季默！如何用一段旋律创造一个电影宇宙？ 合作  182.9万  4066 16:27":
+    - /url: //www.bilibili.com/video/BV1awbg6XELn/?spm_id_from=333.1387.upload.video_card.click
+    - img "对话汉斯·季默！如何用一段旋律创造一个电影宇宙？"
+    - generic: 合作
+    - generic: 
+    - generic: 182.9万
+    - generic: 
+    - generic: "4066"
+    - generic: 16:27
+  - generic: 
+  - generic "对话汉斯·季默！如何用一段旋律创造一个电影宇宙？":
+    - link "对话汉斯·季默！如何用一段旋律创造一个电影宇宙？":
+      - /url: //www.bilibili.com/video/BV1awbg6XELn/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 9月8日
+  - link "去了一趟西班牙2.0（日全食篇） 合作  311.1万  5.6万 24:34":
+    - /url: //www.bilibili.com/video/BV1Na4Q64Eos/?spm_id_from=333.1387.upload.video_card.click
+    - img "去了一趟西班牙2.0（日全食篇）"
+    - generic: 合作
+    - generic: 
+    - generic: 311.1万
+    - generic: 
+    - generic: 5.6万
+    - generic: 24:34
+  - generic: 
+  - generic "去了一趟西班牙2.0（日全食篇）":
+    - link "去了一趟西班牙2.0（日全食篇）":
+      - /url: //www.bilibili.com/video/BV1Na4Q64Eos/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月30日
+  - link "【影视飓风】剪辑全能必修课：从0基础到专业成片 课堂  416.3万  4659  16":
+    - /url: //www.bilibili.com/cheese/play/ss847199644?csource=private_space_tougao_null&spm_id_from=333.1387.upload.video_card.click
+    - img "【影视飓风】剪辑全能必修课：从0基础到专业成片"
+    - generic: 课堂
+    - generic: 
+    - generic: 416.3万
+    - generic: 
+    - generic: "4659"
+    - generic: 
+    - generic: "16"
+  - generic "【影视飓风】剪辑全能必修课：从0基础到专业成片":
+    - link "【影视飓风】剪辑全能必修课：从0基础到专业成片":
+      - /url: //www.bilibili.com/cheese/play/ss847199644?csource=private_space_tougao_null&spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月30日
+  - link "看了10年网络热门生物，无穷小亮能看出AI吗？  699.2万  2万 12:14":
+    - /url: //www.bilibili.com/video/BV1eVtc6hEhn/?spm_id_from=333.1387.upload.video_card.click
+    - img "看了10年网络热门生物，无穷小亮能看出AI吗？"
+    - generic: 
+    - generic: 699.2万
+    - generic: 
+    - generic: 2万
+    - generic: 12:14
+  - generic: 
+  - generic "看了10年网络热门生物，无穷小亮能看出AI吗？":
+    - link "看了10年网络热门生物，无穷小亮能看出AI吗？":
+      - /url: //www.bilibili.com/video/BV1eVtc6hEhn/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月28日
+  - link "非洲淘金，一场黄金背后的生死赌局。  628.5万  1.9万 22:25":
+    - /url: //www.bilibili.com/video/BV17E896RE5G/?spm_id_from=333.1387.upload.video_card.click
+    - img "非洲淘金，一场黄金背后的生死赌局。"
+    - generic: 
+    - generic: 628.5万
+    - generic: 
+    - generic: 1.9万
+    - generic: 22:25
+  - generic: 
+  - generic "非洲淘金，一场黄金背后的生死赌局。":
+    - link "非洲淘金，一场黄金背后的生死赌局。":
+      - /url: //www.bilibili.com/video/BV17E896RE5G/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月26日
+  - link "音画不同步！为什么视频口型总是怪怪的？  427.9万  5446 08:51":
+    - /url: //www.bilibili.com/video/BV1A2bi6UEev/?spm_id_from=333.1387.upload.video_card.click
+    - img "音画不同步！为什么视频口型总是怪怪的？"
+    - generic: 
+    - generic: 427.9万
+    - generic: 
+    - generic: "5446"
+    - generic: 08:51
+  - generic: 
+  - generic "音画不同步！为什么视频口型总是怪怪的？":
+    - link "音画不同步！为什么视频口型总是怪怪的？":
+      - /url: //www.bilibili.com/video/BV1A2bi6UEev/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月18日
+  - link "外观大改，更强了吗？Insta360 X6上手  169.9万  2978 13:40":
+    - /url: //www.bilibili.com/video/BV12TgV63ESW/?spm_id_from=333.1387.upload.video_card.click
+    - img "外观大改，更强了吗？Insta360 X6上手"
+    - generic: 
+    - generic: 169.9万
+    - generic: 
+    - generic: "2978"
+    - generic: 13:40
+  - generic: 
+  - generic "外观大改，更强了吗？Insta360 X6上手":
+    - link "外观大改，更强了吗？Insta360 X6上手":
+      - /url: //www.bilibili.com/video/BV12TgV63ESW/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月12日
+  - link "长着云台的手机？荣耀Robot Phone上手  1092.8万  8810 13:12":
+    - /url: //www.bilibili.com/video/BV1UKgL6SEyA/?spm_id_from=333.1387.upload.video_card.click
+    - img "长着云台的手机？荣耀Robot Phone上手"
+    - generic: 
+    - generic: 1092.8万
+    - generic: 
+    - generic: "8810"
+    - generic: 13:12
+  - generic: 
+  - generic "长着云台的手机？荣耀Robot Phone上手":
+    - link "长着云台的手机？荣耀Robot Phone上手":
+      - /url: //www.bilibili.com/video/BV1UKgL6SEyA/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月12日
+  - link "对话诺兰！导演亲手翻开了《奥德赛》的另一面  249万  3434 14:05":
+    - /url: //www.bilibili.com/video/BV1Apu368EeY/?spm_id_from=333.1387.upload.video_card.click
+    - img "对话诺兰！导演亲手翻开了《奥德赛》的另一面"
+    - generic: 
+    - generic: 249万
+    - generic: 
+    - generic: "3434"
+    - generic: 14:05
+  - generic: 
+  - generic "对话诺兰！导演亲手翻开了《奥德赛》的另一面":
+    - link "对话诺兰！导演亲手翻开了《奥德赛》的另一面":
+      - /url: //www.bilibili.com/video/BV1Apu368EeY/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月9日
+  - link "家里的旧光盘，为什么播不出来了？  1377.9万  3.2万 12:52":
+    - /url: //www.bilibili.com/video/BV1ymux6BEFU/?spm_id_from=333.1387.upload.video_card.click
+    - img "家里的旧光盘，为什么播不出来了？"
+    - generic: 
+    - generic: 1377.9万
+    - generic: 
+    - generic: 3.2万
+    - generic: 12:52
+  - generic: 
+  - generic "家里的旧光盘，为什么播不出来了？":
+    - link "家里的旧光盘，为什么播不出来了？":
+      - /url: //www.bilibili.com/video/BV1ymux6BEFU/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月7日
+  - link "太卷了！改变视频行业的AI又迭代了什么？  334.5万  5886 09:58":
+    - /url: //www.bilibili.com/video/BV1teuc63E6D/?spm_id_from=333.1387.upload.video_card.click
+    - img "太卷了！改变视频行业的AI又迭代了什么？"
+    - generic: 
+    - generic: 334.5万
+    - generic: 
+    - generic: "5886"
+    - generic: 09:58
+  - generic: 
+  - generic "太卷了！改变视频行业的AI又迭代了什么？":
+    - link "太卷了！改变视频行业的AI又迭代了什么？":
+      - /url: //www.bilibili.com/video/BV1teuc63E6D/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月4日
+  - link "租几颗上亿元的卫星，能拍到什么？  969.5万  1.6万 10:35":
+    - /url: //www.bilibili.com/video/BV1Pt3D6jEob/?spm_id_from=333.1387.upload.video_card.click
+    - img "租几颗上亿元的卫星，能拍到什么？"
+    - generic: 
+    - generic: 969.5万
+    - generic: 
+    - generic: 1.6万
+    - generic: 10:35
+  - generic: 
+  - generic "租几颗上亿元的卫星，能拍到什么？":
+    - link "租几颗上亿元的卫星，能拍到什么？":
+      - /url: //www.bilibili.com/video/BV1Pt3D6jEob/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 8月2日
+  - link "我们拍到了水下风暴 合作  1001.3万  3.4万 24:48":
+    - /url: //www.bilibili.com/video/BV1c7GA6kEqN/?spm_id_from=333.1387.upload.video_card.click
+    - img "我们拍到了水下风暴"
+    - generic: 合作
+    - generic: 
+    - generic: 1001.3万
+    - generic: 
+    - generic: 3.4万
+    - generic: 24:48
+  - generic: 
+  - generic "我们拍到了水下风暴":
+    - link "我们拍到了水下风暴":
+      - /url: //www.bilibili.com/video/BV1c7GA6kEqN/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 7月31日
+  - link "和解剖了4000具尸体的法医，一起看了影片中的尸体... 合作  1213万  3.1万 16:09":
+    - /url: //www.bilibili.com/video/BV1QEgZ6rEGj/?spm_id_from=333.1387.upload.video_card.click
+    - img "和解剖了4000具尸体的法医，一起看了影片中的尸体..."
+    - generic: 合作
+    - generic: 
+    - generic: 1213万
+    - generic: 
+    - generic: 3.1万
+    - generic: 16:09
+  - generic: 
+  - generic "和解剖了4000具尸体的法医，一起看了影片中的尸体...":
+    - link "和解剖了4000具尸体的法医，一起看了影片中的尸体...":
+      - /url: //www.bilibili.com/video/BV1QEgZ6rEGj/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 7月27日
+  - link "颠覆行业？索尼FX5深度评测  215万  1.4万 25:22":
+    - /url: //www.bilibili.com/video/BV1yTgC6XENF/?spm_id_from=333.1387.upload.video_card.click
+    - img "颠覆行业？索尼FX5深度评测"
+    - generic: 
+    - generic: 215万
+    - generic: 
+    - generic: 1.4万
+    - generic: 25:22
+  - generic: 
+  - generic "颠覆行业？索尼FX5深度评测":
+    - link "颠覆行业？索尼FX5深度评测":
+      - /url: //www.bilibili.com/video/BV1yTgC6XENF/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 7月22日
+  - link "探访草原深处，我们拍到了……  237.8万  5643 11:52":
+    - /url: //www.bilibili.com/video/BV13PKV6zEUB/?spm_id_from=333.1387.upload.video_card.click
+    - img "探访草原深处，我们拍到了……"
+    - generic: 
+    - generic: 237.8万
+    - generic: 
+    - generic: "5643"
+    - generic: 11:52
+  - generic: 
+  - generic "探访草原深处，我们拍到了……":
+    - link "探访草原深处，我们拍到了……":
+      - /url: //www.bilibili.com/video/BV13PKV6zEUB/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 7月16日
+  - link "价格2位数？PDD上买到的机器人还能这样？  526.9万  8669 11:49":
+    - /url: //www.bilibili.com/video/BV1d2N16KEh6/?spm_id_from=333.1387.upload.video_card.click
+    - img "价格2位数？PDD上买到的机器人还能这样？"
+    - generic: 
+    - generic: 526.9万
+    - generic: 
+    - generic: "8669"
+    - generic: 11:49
+  - generic: 
+  - generic "价格2位数？PDD上买到的机器人还能这样？":
+    - link "价格2位数？PDD上买到的机器人还能这样？":
+      - /url: //www.bilibili.com/video/BV1d2N16KEh6/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 7月13日
+  - link "去了一趟得克萨斯州。  941.7万  3.6万 17:00":
+    - /url: //www.bilibili.com/video/BV1LoN76dEmF/?spm_id_from=333.1387.upload.video_card.click
+    - img "去了一趟得克萨斯州。"
+    - generic: 
+    - generic: 941.7万
+    - generic: 
+    - generic: 3.6万
+    - generic: 17:00
+  - generic: 
+  - generic "去了一趟得克萨斯州。":
+    - link "去了一趟得克萨斯州。":
+      - /url: //www.bilibili.com/video/BV1LoN76dEmF/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 7月10日
+  - link "带着100万，我们见到了女巫…  504.6万  3.7万 39:38":
+    - /url: //www.bilibili.com/video/BV1WsTy6JEE8/?spm_id_from=333.1387.upload.video_card.click
+    - img "带着100万，我们见到了女巫…"
+    - generic: 
+    - generic: 504.6万
+    - generic: 
+    - generic: 3.7万
+    - generic: 39:38
+  - generic: 
+  - generic "带着100万，我们见到了女巫…":
+    - link "带着100万，我们见到了女巫…":
+      - /url: //www.bilibili.com/video/BV1WsTy6JEE8/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 7月5日
+  - link "在巴西能拍到什么？  411.7万  1.3万 21:02":
+    - /url: //www.bilibili.com/video/BV1AwTu6EEpB/?spm_id_from=333.1387.upload.video_card.click
+    - img "在巴西能拍到什么？"
+    - generic: 
+    - generic: 411.7万
+    - generic: 
+    - generic: 1.3万
+    - generic: 21:02
+  - generic: 
+  - generic "在巴西能拍到什么？":
+    - link "在巴西能拍到什么？":
+      - /url: //www.bilibili.com/video/BV1AwTu6EEpB/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月28日
+  - link "去了一趟潮汕。  1157.1万  3.3万 19:52":
+    - /url: //www.bilibili.com/video/BV1st7G6WEYR/?spm_id_from=333.1387.upload.video_card.click
+    - img "去了一趟潮汕。"
+    - generic: 
+    - generic: 1157.1万
+    - generic: 
+    - generic: 3.3万
+    - generic: 19:52
+  - generic: 
+  - generic "去了一趟潮汕。":
+    - link "去了一趟潮汕。":
+      - /url: //www.bilibili.com/video/BV1st7G6WEYR/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月26日
+  - link "真开上机甲了？影视飓风1600万粉丝Q&A！  695.9万  5.9万 17:12":
+    - /url: //www.bilibili.com/video/BV1wE7P6bESL/?spm_id_from=333.1387.upload.video_card.click
+    - img "真开上机甲了？影视飓风1600万粉丝Q&A！"
+    - generic: 
+    - generic: 695.9万
+    - generic: 
+    - generic: 5.9万
+    - generic: 17:12
+  - generic: 
+  - generic "真开上机甲了？影视飓风1600万粉丝Q&A！":
+    - link "真开上机甲了？影视飓风1600万粉丝Q&A！":
+      - /url: //www.bilibili.com/video/BV1wE7P6bESL/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月22日
+  - link "在AI里抛硬币，概率是50%吗？  772.1万  5897 10:17":
+    - /url: //www.bilibili.com/video/BV1Wzjg65EM6/?spm_id_from=333.1387.upload.video_card.click
+    - img "在AI里抛硬币，概率是50%吗？"
+    - generic: 
+    - generic: 772.1万
+    - generic: 
+    - generic: "5897"
+    - generic: 10:17
+  - generic: 
+  - generic "在AI里抛硬币，概率是50%吗？":
+    - link "在AI里抛硬币，概率是50%吗？":
+      - /url: //www.bilibili.com/video/BV1Wzjg65EM6/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月16日
+  - link "大疆Pocket 4P，到底 Pro 在哪？  201.8万  6541 12:42":
+    - /url: //www.bilibili.com/video/BV1ghJg6hEWV/?spm_id_from=333.1387.upload.video_card.click
+    - img "大疆Pocket 4P，到底 Pro 在哪？"
+    - generic: 
+    - generic: 201.8万
+    - generic: 
+    - generic: "6541"
+    - generic: 12:42
+  - generic: 
+  - generic "大疆Pocket 4P，到底 Pro 在哪？":
+    - link "大疆Pocket 4P，到底 Pro 在哪？":
+      - /url: //www.bilibili.com/video/BV1ghJg6hEWV/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月15日
+  - link "新地图解锁！影视飓风的电竞房？  477万  3.8万 12:44":
+    - /url: //www.bilibili.com/video/BV16kEC6MEWL/?spm_id_from=333.1387.upload.video_card.click
+    - img "新地图解锁！影视飓风的电竞房？"
+    - generic: 
+    - generic: 477万
+    - generic: 
+    - generic: 3.8万
+    - generic: 12:44
+  - generic: 
+  - generic "新地图解锁！影视飓风的电竞房？":
+    - link "新地图解锁！影视飓风的电竞房？":
+      - /url: //www.bilibili.com/video/BV16kEC6MEWL/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月12日
+  - link "双摄+分体，更好用吗？Insta360 Luna Ultra上手  300.1万  7410 19:08":
+    - /url: //www.bilibili.com/video/BV1eBEd68EFu/?spm_id_from=333.1387.upload.video_card.click
+    - img "双摄+分体，更好用吗？Insta360 Luna Ultra上手"
+    - generic: 
+    - generic: 300.1万
+    - generic: 
+    - generic: "7410"
+    - generic: 19:08
+  - generic: 
+  - generic "双摄+分体，更好用吗？Insta360 Luna Ultra上手":
+    - link "双摄+分体，更好用吗？Insta360 Luna Ultra上手":
+      - /url: //www.bilibili.com/video/BV1eBEd68EFu/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月10日
+  - link "AI还是真的？连特效师也看不出来？  585.3万  2.1万 11:23":
+    - /url: //www.bilibili.com/video/BV1r2Es6XETu/?spm_id_from=333.1387.upload.video_card.click
+    - img "AI还是真的？连特效师也看不出来？"
+    - generic: 
+    - generic: 585.3万
+    - generic: 
+    - generic: 2.1万
+    - generic: 11:23
+  - generic: 
+  - generic "AI还是真的？连特效师也看不出来？":
+    - link "AI还是真的？连特效师也看不出来？":
+      - /url: //www.bilibili.com/video/BV1r2Es6XETu/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月7日
+  - link "在沙漠里种了1800万棵树，然后呢？ 合作  463.4万  2万 12:36":
+    - /url: //www.bilibili.com/video/BV1TR766zEvE/?spm_id_from=333.1387.upload.video_card.click
+    - img "在沙漠里种了1800万棵树，然后呢？"
+    - generic: 合作
+    - generic: 
+    - generic: 463.4万
+    - generic: 
+    - generic: 2万
+    - generic: 12:36
+  - generic: 
+  - generic "在沙漠里种了1800万棵树，然后呢？":
+    - link "在沙漠里种了1800万棵树，然后呢？":
+      - /url: //www.bilibili.com/video/BV1TR766zEvE/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月5日
+  - link "“超微距”下的瑞士长什么样？  546.1万  1.2万 22:49":
+    - /url: //www.bilibili.com/video/BV1vkVB6NEuR/?spm_id_from=333.1387.upload.video_card.click
+    - img "“超微距”下的瑞士长什么样？"
+    - generic: 
+    - generic: 546.1万
+    - generic: 
+    - generic: 1.2万
+    - generic: 22:49
+  - generic: 
+  - generic "“超微距”下的瑞士长什么样？":
+    - link "“超微距”下的瑞士长什么样？":
+      - /url: //www.bilibili.com/video/BV1vkVB6NEuR/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 6月3日
+  - link "第一次去非洲拍样片日记…  339.6万  2.8万 16:53":
+    - /url: //www.bilibili.com/video/BV1EZGy6xEoM/?spm_id_from=333.1387.upload.video_card.click
+    - img "第一次去非洲拍样片日记…"
+    - generic: 
+    - generic: 339.6万
+    - generic: 
+    - generic: 2.8万
+    - generic: 16:53
+  - generic: 
+  - generic "第一次去非洲拍样片日记…":
+    - link "第一次去非洲拍样片日记…":
+      - /url: //www.bilibili.com/video/BV1EZGy6xEoM/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 5月27日
+  - link "你被AI内容骗过吗？  616.8万  5368 07:13":
+    - /url: //www.bilibili.com/video/BV1z5Gd6WEST/?spm_id_from=333.1387.upload.video_card.click
+    - img "你被AI内容骗过吗？"
+    - generic: 
+    - generic: 616.8万
+    - generic: 
+    - generic: "5368"
+    - generic: 07:13
+  - generic: 
+  - generic "你被AI内容骗过吗？":
+    - link "你被AI内容骗过吗？":
+      - /url: //www.bilibili.com/video/BV1z5Gd6WEST/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 5月25日
+  - link "回不了本也要拍？日食记为什么能有千万粉丝？ 合作  758.9万  1.6万 16:06":
+    - /url: //www.bilibili.com/video/BV1U1Lv6pEBN/?spm_id_from=333.1387.upload.video_card.click
+    - img "回不了本也要拍？日食记为什么能有千万粉丝？"
+    - generic: 合作
+    - generic: 
+    - generic: 758.9万
+    - generic: 
+    - generic: 1.6万
+    - generic: 16:06
+  - generic: 
+  - generic "回不了本也要拍？日食记为什么能有千万粉丝？":
+    - link "回不了本也要拍？日食记为什么能有千万粉丝？":
+      - /url: //www.bilibili.com/video/BV1U1Lv6pEBN/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 5月22日
+  - link "关于“活着”，我们问了问余华  1073.4万  2.3万 24:37":
+    - /url: //www.bilibili.com/video/BV14XLq64EQf/?spm_id_from=333.1387.upload.video_card.click
+    - img "关于“活着”，我们问了问余华"
+    - generic: 
+    - generic: 1073.4万
+    - generic: 
+    - generic: 2.3万
+    - generic: 24:37
+  - generic: 
+  - generic "关于“活着”，我们问了问余华":
+    - link "关于“活着”，我们问了问余华":
+      - /url: //www.bilibili.com/video/BV14XLq64EQf/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 5月19日
+  - link "1天被蜇50次？养蜂人都在做什么？  735.3万  1.8万 16:54":
+    - /url: //www.bilibili.com/video/BV1GB5Q6uEDk/?spm_id_from=333.1387.upload.video_card.click
+    - img "1天被蜇50次？养蜂人都在做什么？"
+    - generic: 
+    - generic: 735.3万
+    - generic: 
+    - generic: 1.8万
+    - generic: 16:54
+  - generic: 
+  - generic "1天被蜇50次？养蜂人都在做什么？":
+    - link "1天被蜇50次？养蜂人都在做什么？":
+      - /url: //www.bilibili.com/video/BV1GB5Q6uEDk/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 5月14日
+  - link "3台高速机VS刘谦手速！谁更胜一筹？ 合作  1414.2万  3.4万 13:54":
+    - /url: //www.bilibili.com/video/BV1XY546vE1o/?spm_id_from=333.1387.upload.video_card.click
+    - img "3台高速机VS刘谦手速！谁更胜一筹？"
+    - generic: 合作
+    - generic: 
+    - generic: 1414.2万
+    - generic: 
+    - generic: 3.4万
+    - generic: 13:54
+  - generic: 
+  - generic "3台高速机VS刘谦手速！谁更胜一筹？":
+    - link "3台高速机VS刘谦手速！谁更胜一筹？":
+      - /url: //www.bilibili.com/video/BV1XY546vE1o/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 5月11日
+  - link "高一的笨豆，做出的视频让我惊呆了…  890.9万  1.9万 16:02":
+    - /url: //www.bilibili.com/video/BV1TFd3BEEB3/?spm_id_from=333.1387.upload.video_card.click
+    - img "高一的笨豆，做出的视频让我惊呆了…"
+    - generic: 
+    - generic: 890.9万
+    - generic: 
+    - generic: 1.9万
+    - generic: 16:02
+  - generic: 
+  - generic "高一的笨豆，做出的视频让我惊呆了…":
+    - link "高一的笨豆，做出的视频让我惊呆了…":
+      - /url: //www.bilibili.com/video/BV1TFd3BEEB3/?spm_id_from=333.1387.upload.video_card.click
+  - generic: 5月8日
+  - navigation "分页":
+    - button "第 1 页，当前页": "1"
+    - button "第 2 页": "2"
+    - button "第 3 页": "3"
+    - button "第 4 页": "4"
+    - button "第 5 页": "5"
+    - button "第 6 页": "6"
+    - button "第 7 页": "7"
+    - button "向后 5 页": ...
+    - button "第 24 页": "24"
+    - button "下一页"
+    - generic: 共 24 页 / 932 个，跳至
+    - generic "输入要跳转的页码":
+      - spinbutton "输入要跳转的页码"
+    - generic: 页
+  - generic: 
+- generic: 登录哔哩哔哩，高清视频免费看!
+- generic: 更多登录后权益等你解锁
+- text: 立即登录
