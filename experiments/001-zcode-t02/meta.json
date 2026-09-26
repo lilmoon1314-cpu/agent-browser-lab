@@ -1,0 +1,28 @@
+{
+  "experiment_id": "001",
+  "date": "2026-09-26",
+  "agent_name": "ZCode",
+  "agent_version": "GLM-5.3-Flash",
+  "agent_runtime": "内置浏览器自动化（browser-use）",
+  "task_id": "T02",
+  "status": "success",
+  "steps": 7,
+  "duration_min": 4,
+  "anomalies": [
+    "登录浮层在首页/空间页/详情页持续弹出并遮挡内容",
+    "搜索框按 Enter 未触发跳转",
+    "点击放大镜先弹出建议面板；点击建议后结果页在新标签页打开"
+  ],
+  "failure_modes": [],
+  "ineffective_actions": 1,
+  "result_summary": "最新视频《比电影更夸张？专业保镖到底在做什么？》，发布于 2026-09-22 17:00:00（BV1J7hE6aEDQ）。空间页与详情页交叉验证一致。",
+  "screenshots": [
+    "01-起始页.png",
+    "02-搜索结果页.png",
+    "03-搜索提交后.png",
+    "04-搜索结果列表.png",
+    "05-UP主空间页.png",
+    "06-最新发布视频列表.png",
+    "07-交叉验证-视频详情页.png"
+  ]
+}
